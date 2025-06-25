@@ -1,0 +1,13 @@
+langchain
+faiss-cpu
+tiktoken
+python-dotenv
+PyPDF2
+streamlit
+ollama
+python-docx
+pandas
+numpy==1.26.4
+pydantic==1.10.12
+huggingface-hub==0.18.0
+nbconvert>=6.4.4
